@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/css/main.a9e8021c.css",
-    "main.js": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/js/main.ba760deb.js",
+    "main.css": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/css/main.f52c080e.css",
+    "main.js": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/js/main.a4b6bc4f.js",
     "static/media/gmc.jpg": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/media/gmc.68be83422ccb35dd8b02.jpg",
     "static/media/ZENDOTSREGULAR.TTF": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/media/ZENDOTSREGULAR.f8bb133a13b74ede9167.TTF",
     "index.html": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/index.html",
-    "main.a9e8021c.css.map": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/css/main.a9e8021c.css.map",
-    "main.ba760deb.js.map": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/js/main.ba760deb.js.map"
+    "main.f52c080e.css.map": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/css/main.f52c080e.css.map",
+    "main.a4b6bc4f.js.map": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/js/main.a4b6bc4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9e8021c.css",
-    "static/js/main.ba760deb.js"
+    "static/css/main.f52c080e.css",
+    "static/js/main.a4b6bc4f.js"
   ]
 }
