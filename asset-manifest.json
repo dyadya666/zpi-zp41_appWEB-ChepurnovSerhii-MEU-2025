@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/css/main.f52c080e.css",
-    "main.js": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/js/main.a4b6bc4f.js",
+    "main.css": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/css/main.f289802b.css",
+    "main.js": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/js/main.8006f693.js",
+    "static/media/LakkiReddy-Regular.ttf": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/media/LakkiReddy-Regular.032dfbffaa0a9c7a1b60.ttf",
     "static/media/gmc.jpg": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/media/gmc.68be83422ccb35dd8b02.jpg",
+    "static/media/SpecialElite-Regular.ttf": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/media/SpecialElite-Regular.a43d8553d2c8af5fba60.ttf",
+    "static/media/san-francisco.jpg": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/media/san-francisco.a06e4c22dd44b2a8dfda.jpg",
+    "static/media/subaru.jpg": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/media/subaru.cee5ae1fb1b13f4f4c10.jpg",
     "static/media/ZENDOTSREGULAR.TTF": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/media/ZENDOTSREGULAR.f8bb133a13b74ede9167.TTF",
+    "static/media/pin.jpeg": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/media/pin.85c303e5bf174ecbda20.jpeg",
+    "static/media/x-logo.svg": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/media/x-logo.798e5dc7989d2d6f5228d9f2b06703e6.svg",
     "index.html": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/index.html",
-    "main.f52c080e.css.map": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/css/main.f52c080e.css.map",
-    "main.a4b6bc4f.js.map": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/js/main.a4b6bc4f.js.map"
+    "static/media/facebook.svg": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/media/facebook.3f0f98259ffe33408e2c77fc13fd9935.svg",
+    "main.f289802b.css.map": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/css/main.f289802b.css.map",
+    "main.8006f693.js.map": "/zpi-zp41_appWEB-ChepurnovSerhii-MEU-2025/static/js/main.8006f693.js.map"
   },
   "entrypoints": [
-    "static/css/main.f52c080e.css",
-    "static/js/main.a4b6bc4f.js"
+    "static/css/main.f289802b.css",
+    "static/js/main.8006f693.js"
   ]
 }
