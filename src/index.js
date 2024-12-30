@@ -1,18 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
+import CarRental from './components/CarRental';
 
-function App() {
-  return (
-    <p>
-    Hi Man!
-    </p>
-  );
-}
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <CarRental />
   </React.StrictMode>
 );
